@@ -1,0 +1,28 @@
+
+ All credit to Patt Vira and Her “Pendulum Waves” Video 
+
+https://www.youtube.com/@pattvira
+
+https://www.youtube.com/watch?v=GqVyz-8AGcA&t=371s
+
+
+My main approach to my writing tool was to create a self generating tool in which the painter adjusts the parameters of the tool. It’s an Etch-A-Sketch but circular instead of rectangular.
+
+ This is because I am a terrible drawer, but I’m a half way decent painter. 
+
+The major constraint is that the paint tool is almost always moving. Gravity determines the speed of the brush while the length determines spacing. Together they work to build shapes. The size of the pointer is changeable to help create a variety of patterns and remove the circular pointer entirely. 
+
+
+I started with building the pendulum with the idea of having multiple pendulums swinging from from the top. But as a design tool it did not build shapes and patterns.
+
+
+I put the pendulum into its own object. And, I added the forces of gravity, size, length  and sliders. I hit a roadblock with the trace function, and then I had to build the trace function from the ground up. 
+
+
+The main issue is which is a sort of Trace Function to create a Paint Effect. By storing the x,y values of a circle, I could change the color of a pixel. My main problem was that I struggled with placing the Trace function in the object itself. 
+Later I realized that my main technical problem was that the pendulum has to be a vector.
+
+
+
+
+
