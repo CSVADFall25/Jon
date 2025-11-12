@@ -1,0 +1,13 @@
+Me and My Boo
+
+For the last 15 years, I have had a great friendship across the Atlantic ocean. Contained with the communication application,  WhatApps is a list of every call, missed call and text message between the two of us. For this project, I calculated the amount of minutes and call times over the month of October. 
+
+The main problem to data parsing in this case has been that information comes in completely unstructured. I have been working with the Data Science Team at the library to parse this data using python over the last two weeks. 
+
+
+
+Visualization 
+
+My visualization takes inspiration from Patt Vira’s design data viz project for her sleep cycle. 
+
+Each conversation has its own arc of ellipses and reflects the length of time of conversation. Length is determined by the amount of colored ellipses.  The 360 arc has a maximum of an hour for every given phone call. Each phone call is separate and is not localized based on time of the day currently. When you hover over an arc, a phone conversation, the ellipse increases in alpha value and provides text documenting the start of the phone call and end of the call.
