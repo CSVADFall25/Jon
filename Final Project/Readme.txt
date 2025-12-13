@@ -62,7 +62,7 @@ If I had to do it over again, I would spend more time researching, exploring and
 
 I am super grateful for this class. It has imparted two very important lessons for my academic career. The first part is about paying attention to different teaching styles and how to be more patient when leading a clas. Holding silence is a way to encourage people to talk and give space for those not the most outwardly social.
 
-The second thing which I am grateful for is purposeful direction and pursuit. I think there is potential to develop, program and give back p5js to a community.  I have been struggling 
+The second thing which I am grateful for is purposeful direction and pursuit. I think there is potential to develop, program and give back p5js to a community.  
 
 
 
