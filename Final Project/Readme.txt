@@ -52,19 +52,6 @@ CCapture is an open source library which allows users to capture videos at a fix
 This was a particularly troublesome issue in deploying within the sketch and I believe is one of the largest obstacles to p5js being more widely used by video creators. Unlike graphics created within p5js, when using video, the p5js must have a loop function and be placed with the setup. This is contrary to the documentation. The videos will not run while the capture function will still work.   
 
 
-Reflection on the Course
-
-Firstly, the course was excellent and was certainly diverse and welcoming. I know for certain that we really had a good group of students. The mixture of MAT and computer science students really helped. It is obvious that the class meant a lot to the computer science students in particular for a variety of reasons.
-
-On my own reflection and how I did in the class, I would give myself a 5 or 6 out of 10, maybe. I really enjoyed the readings and probably started off the quarter at a good pace. But in truth I was disappointed with my performance.  I would have liked to really dive in and really build the skills and coding skillset in p5js but also D3. I found myself questioning which avenue or approach I should take. Instead of being overly critical, it is important to explore and learn. 
-
-Sure first quarters are difficult and life is difficult but I don’t like excuses.  And, I hate missing opportunities. 
-
-If I had to do it over again, I would spend more time researching, exploring and reflecting. I would have liked to explore more in ml5, which I plan to do over the break. 
-
-I am super grateful for this class. It has imparted two very important lessons for my academic career. The first part is about paying attention to different teaching styles and how to be more patient when leading a clas. Holding silence is a way to encourage people to talk and give space for those not the most outwardly social.
-
-The second thing which I am grateful for is purposeful direction and pursuit. I think there is potential to develop, program and give back p5js to a community.  
 
 
 
