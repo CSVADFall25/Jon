@@ -6,6 +6,8 @@ https://editor.p5js.org/jcrescenzo/collections/GXERC4DAC
 
 I removed most of the video clips, leaving sample clips, to prevent the GitHub from being too large. 
 
+Here is a google drive link to exported media using p5js to create video effects: https://drive.google.com/drive/folders/1RcWw7IdOkPUDVApklgIZnl6RtPXi3W56?usp=drive_link
+
 
 
 Product - i.e. what you made:
